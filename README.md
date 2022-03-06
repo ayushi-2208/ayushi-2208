@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi Gupta:)</h1>
-<h3 align="center">I am a Web Developer</h3>
+<h3 align="center">I am a MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-2208&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-2208" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend Developing skills.**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 💬 Ask me about **Web Developing stuff.**
+- 💬 Ask me about **MERN Stack Developing stuff.**
 
 - 📫 How to reach me **ayushigupta283203@gmail.com**
 
