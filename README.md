@@ -22,7 +22,7 @@
 <a href="https://twitter.com/aayushi_gupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushi_gupta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushigupta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushigupta22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushigupta09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushigupta09" height="30" width="40" /></a>
- <a href="https://leetcode.com/ayushi2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="ayushigupta09" height="30" width="40" /></a>
+ <a href="https://leetcode.com/ayushi2000/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="ayushi2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
